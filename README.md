@@ -9,7 +9,7 @@ I combine my technical expertise and creativity to craft exceptional designs and
 - Programming : Crafting responsive and user-friendly web applications using HTML, CSS, and JavaScript.
 - Front-End Development: Building engaging interfaces and seamless user experiences.
 
-- **Projects**:  
+- #**Projects**:  
   starting a food waste management system using python
 
  ✨ Highlights:
@@ -32,13 +32,13 @@ I combine my technical expertise and creativity to craft exceptional designs and
 - Leveraging technology to improve lives.
 
 # **📫 How to Reach Me:**
-- **LinkedIn**: [(https://www.linkedin.com/in/christopher-ombwori/)]  
+- **LinkedIn**: [https://www.linkedin.com/in/christopher-ombwori/]  
 - **Portfolio**:  
 - **Twitter**:  
 
 Feel free to check out my repositories below, and let’s collaborate to create something amazing! 🚀
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ChrisOmb)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ChrisOmbtheme=transparent)](https://git.io/streak-stats)
 
 <!---
 ChrisOmb/ChrisOmb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
