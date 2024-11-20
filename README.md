@@ -38,7 +38,7 @@ I combine my technical expertise and creativity to craft exceptional designs and
 
 Feel free to check out my repositories below, and let’s collaborate to create something amazing! 🚀
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ChrisOmbtheme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ChrisOmb&theme=transparent)](https://git.io/streak-stats)
 
 <!---
 ChrisOmb/ChrisOmb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
