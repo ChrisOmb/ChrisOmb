@@ -39,7 +39,6 @@ I combine my technical expertise and creativity to craft exceptional designs and
 Feel free to check out my repositories below, and let’s collaborate to create something amazing! 🚀
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ChrisOmb&theme=blue-green&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ChrisOmb&theme=blue-green&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 [![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisOmb&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisOmb&layout=compact&theme=blue-green)
 
