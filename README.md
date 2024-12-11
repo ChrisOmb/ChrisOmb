@@ -38,9 +38,9 @@ I combine my technical expertise and creativity to craft exceptional designs and
 
 Feel free to check out my repositories below, and let’s collaborate to create something amazing! 🚀
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ChrisOmb&theme=tokyonight)](https://git.io/streak-stats)
-[![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisOmb&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisOmb&layout=compact&theme=blue-green)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ChrisOmb&theme=algolia)](https://git.io/streak-stats)
+[![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisOmb&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisOmb&layout=compact&theme=algolia)
 
 <!---
 ChrisOmb/ChrisOmb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
