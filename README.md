@@ -52,7 +52,7 @@ Feel free to check out my repositories below, and let’s collaborate to create 
 
   ## 📖 Latest Blog Posts
 
-- [**The art of Minimalist design - Why Less is More**]([https://medium.com/@christopherombwori06/why-less-is-more-5b3ed1a6d6f7](https://medium.com/@christopherombwori06/the-art-of-minimalist-design-why-less-is-more-69420efef6f2))
+- [**The art of Minimalist design - Why Less is More**](https://medium.com/@christopherombwori06/the-art-of-minimalist-design-why-less-is-more-69420efef6f2)
 
 
 <!---
