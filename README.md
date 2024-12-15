@@ -38,12 +38,17 @@ I combine my technical expertise and creativity to craft exceptional designs and
 
 Feel free to check out my repositories below, and let’s collaborate to create something amazing! 🚀
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ChrisOmb&theme=dark&hide_border=true)](https://git.io/streak-stats)
+## 📊 My GitHub Overview
 
-## 🚀 My GitHub Stats
+- 🔥 **Current Streak**  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=ChrisOmb&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisOmb&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![ChrisOmb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChrisOmb&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+- 🌟 **Top Languages**  
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisOmb&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+- 📈 **GitHub Stats**  
+  [![ChrisOmb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChrisOmb&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 ChrisOmb/ChrisOmb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
