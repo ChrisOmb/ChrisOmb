@@ -50,6 +50,11 @@ Feel free to check out my repositories below, and let’s collaborate to create 
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisOmb&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
+  ## 📖 Latest Blog Posts
+
+- [**Why Less is More**](https://medium.com/@christopherombwori06/why-less-is-more-5b3ed1a6d6f7)
+
+
 <!---
 ChrisOmb/ChrisOmb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
