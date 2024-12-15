@@ -40,9 +40,9 @@ Feel free to check out my repositories below, and let’s collaborate to create 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ChrisOmb&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisOmb&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisOmb&show_icons=true&theme=dark&hide border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisOmb&layout=compact&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisOmb&layout=compact&theme==dark&hide_border=true)
 
 <!---
 ChrisOmb/ChrisOmb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
